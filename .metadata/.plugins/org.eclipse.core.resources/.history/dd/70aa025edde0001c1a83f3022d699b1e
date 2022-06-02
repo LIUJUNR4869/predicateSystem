@@ -1,0 +1,7 @@
+package com.frame;
+
+import javax.swing.JFrame;
+
+public class LoginMain extends JFrame {
+
+}
